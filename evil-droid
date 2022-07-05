@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 #
+<<<<<<< ours
 # Evil-Droid Framework . version 0.3
+=======
+# Evil-Droid Framework . version 0.2
 # Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platform
 # 
 #                  Created By Mascerano Bachir .
